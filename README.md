@@ -29,5 +29,5 @@
 
 <h2>Static Previews</h2>
 
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/xihpurhitfpt5mycko8z.jpg" alt="static-preview-image" id="thumbnail">
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/jxvqmmhh6qfcoeoxmfie.jpg" alt="static-preview-image">
+<img class="static-preview-image" src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/xihpurhitfpt5mycko8z.jpg" alt="static preview image" id="thumbnail">
+<img class="static-preview-image" src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/jxvqmmhh6qfcoeoxmfie.jpg" alt="static preview image">
