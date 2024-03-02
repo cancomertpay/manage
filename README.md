@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/qkpgcsmter7tah2sjdij.jpg" alt="project-preview-image" id="lead-image">
 
-<p>This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.</p>
+<p id="meta-description">This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.</p>
 
 <h2>Technologies Used</h2>
 
@@ -23,7 +23,7 @@
 
 <h2>Project Background</h2>
 
-<p>This project was a front-end challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.</p>
+<p id="description">This project was a front-end challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.</p>
 
 <p><strong>Live:</strong> <a href="https://sunnyside-agency-gilt.vercel.app" id="live-preview">Sunnyside Agency Landing Page</a></p>
 
